@@ -72,9 +72,9 @@ h2:hover{
 ol:hover{
     display: block;
     margin: 10px auto;
-    box-shadow: 0 10px 20px #bd0d0d;
+    box-shadow: 0 10px 20px hsl(175, 98%, 48%);
     border-radius: 18px;
     transition: 0.4s ease;
-    color:hsl(61, 100%, 50%)
+    color:hwb(305 4% 4%)
 }
     
