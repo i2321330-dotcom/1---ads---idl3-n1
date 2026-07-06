@@ -75,6 +75,6 @@ ol:hover{
     box-shadow: 0 10px 20px hsl(175, 98%, 48%);
     border-radius: 18px;
     transition: 0.4s ease;
-    color:hwb(305 4% 4%)
+    color:rgba(10, 245, 81, 0.938)
 }
     
